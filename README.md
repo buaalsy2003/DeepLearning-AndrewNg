@@ -2,3 +2,5 @@
 DeepLearning.ai Deep Learning Speicializations
 
 For my own record. 
+
+Test git. 
