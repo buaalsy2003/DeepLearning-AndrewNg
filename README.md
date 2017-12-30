@@ -3,4 +3,5 @@ DeepLearning.ai Deep Learning Speicializations
 
 For my own record. 
 
-Test git. 
+Test git.
+Add a new line from bugfix. 
